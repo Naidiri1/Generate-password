@@ -115,11 +115,11 @@ alert("Lets start to create your secure password.");
 
 // function to know the lenght of characters the password will contain 
 function passwordRequirements() {
-    var length = parseInt(window.prompt("To generate the lenght of your password choose from 10 to 100 characters on it."));
+    var length = parseInt(window.prompt("How many characters will your password contain?, Choose from 10 to 100 characters on it."));
 
     // Conditional to know if the user does not apply the lenght of characters and in numbers
     if (Number.isNaN(length)) {
-        alert("Password lenght must contain numbers from 10-100 characters.");
+        alert("Password length must be written in number, choosing from 10-100 characters.");
         return;
     }
 // conditional if the user input is less than 10
