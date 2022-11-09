@@ -157,17 +157,19 @@ padding-bottom: 200px;
   .btn {
     font-size: 0.8rem;
   }
-img{
+/* img{
 position: relative;
  
 
-}
+} */
+
 footer {
-  position:absolute
 
-
-
+  font-family: 'Poppins', sans-serif;
+  font-size: 25px;
+  font-weight: bolder;
+  color: #0c0b0b;
+  text-align: center;
 }
-
 
 }

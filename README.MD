@@ -22,7 +22,7 @@ This app can be used by anyone who wants to create a secure password, having the
 The users selects the length and the type of characters desired, the user has to click on the button "Generate Password" in order to start the process of creating a password that will be shown in the screen once the criteria is met with a minimum of 10 characters and a maximum of 100 characters.
 
 The following image shows the web application's appearance and functionality:
-![Application appearance](./assets/image/password_generator.jpg)
+![Application appearance](./assets/images/password_generator.jpg)
 
 - link to deplyed application: 
 
