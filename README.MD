@@ -12,7 +12,7 @@ Table of contents:
 
 The main purpose of this project is to generate a secure password for the user purposes, it helps to have a high security password and it is easy to make it by choosing what type of characters the user wants and the length as he/she requires. This application saves time for the user to think and create one by his/her own, and using this application helps to have a desired high secure password.
 
-# Installation 
+# Installation #
 
 N/A
 
@@ -24,9 +24,10 @@ The users selects the length and the type of characters desired, the user has to
 The following image shows the web application's appearance and functionality:
 ![Application appearance](./assets/images/password_generator.jpg)
 
-- link to deployed application: 
+- link to deployed application: [Password Generator](https://naidiri1.github.io/password-generator/)
 
-# Credits
+
+# Credits #
 
 N/A
 
